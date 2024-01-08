@@ -8,6 +8,6 @@ Presenting Linga, a revolutionary SAAS that harnesses the power of <a href="http
 </br>
 </br>
 <kbd>
-<img src="./docs/images/linga.png"> 
+<img src="./whisperj.png"> 
 </kbd>
 </div>

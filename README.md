@@ -8,7 +8,7 @@ WhisperJ is an innovative JVM framework designed to seamlessly integrate with Wh
 </br>
 </br>
 <kbd>
-<img src="./whisperJ.png"> 
+<img src="./whisperJ.png" width="128px"> 
 </kbd>
 </div>
 
